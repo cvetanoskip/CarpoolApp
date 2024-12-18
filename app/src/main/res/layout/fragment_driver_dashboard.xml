@@ -7,6 +7,9 @@
     tools:context=".DriverDashboard"
     android:id="@+id/driver_dashboard"
     android:background="@color/background">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -113,4 +116,5 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent" />
     </LinearLayout>
+    </ScrollView>
 </FrameLayout>
