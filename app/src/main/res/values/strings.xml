@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Carpool</string>
+    <string name="login">LOGIN</string>
+    <string name="email">E-mail address</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="role">Choose role:</string>
+    <string name="driver">Driver</string>
+    <string name="passenger">Passenger</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="cost_per_km">COST PER KM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
